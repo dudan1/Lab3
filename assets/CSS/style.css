@@ -1,5 +1,5 @@
 /*@import "templatecolours.css";*/
-
+/*Finished*/
 body{
     max-width:960px;
     margin-left: auto;
@@ -67,7 +67,7 @@ h3, h4, h5{
     background-color: #782A7E;
 }
 footer{
-    background-colour:#363636;
+    background-color:#363636;
 }
 aside p,h3,h4{
     color: white;
